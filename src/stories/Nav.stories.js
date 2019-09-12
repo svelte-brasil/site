@@ -1,7 +1,7 @@
 import { storiesOf } from "@storybook/svelte"
-import NavView from "./views/NavView"
+import NavView from "./views/NavView.svelte"
 
 storiesOf("Nav", module).add("example with Nav", () => ({
-  Components: NavView,
+  Component: NavView,
   props: { segment: "blog" }
 }))
