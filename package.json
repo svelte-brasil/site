@@ -1,5 +1,5 @@
 {
-  "name": "TODO",
+  "name": "site",
   "description": "TODO",
   "version": "0.0.1",
   "scripts": {
@@ -20,11 +20,14 @@
   "devDependencies": {
     "@babel/core": "^7.6.0",
     "@storybook/svelte": "^5.1.11",
+    "autoprefixer": "^9.6.1",
     "babel-loader": "^8.0.6",
+    "node-sass": "^4.12.0",
     "npm-run-all": "^4.1.5",
     "sapper": "^0.27.0",
     "svelte": "^3.0.0",
     "svelte-loader": "^2.9.0",
+    "svelte-preprocess": "^3.1.1",
     "webpack": "^4.7.0"
   }
 }
