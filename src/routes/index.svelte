@@ -42,7 +42,7 @@
 </svelte:head>
 
 <h1>Svelte Brasil</h1>
-<p>Boilerplate from Svelte Brazil Community</p>
+<p>Boilerplate from Svelte Brasil Community</p>
 <p>{process.env.ENV_TITLE}</p>
 
 <figure>
