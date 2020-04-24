@@ -1,6 +1,6 @@
 {
-  "name": "TODO",
-  "description": "TODO",
+  "name": "svelte-brasil-site",
+  "description": "Site da comunidade Svelte Brasil",
   "version": "0.0.1",
   "scripts": {
     "dev": "sapper dev",
@@ -13,9 +13,9 @@
     "storybook": "start-storybook"
   },
   "dependencies": {
-    "compression": "^1.7.1",
-    "polka": "^0.5.0",
-    "sirv": "^0.4.0"
+    "compression": "^1.7.4",
+    "polka": "^0.5.2",
+    "sirv": "^0.4.2"
   },
   "devDependencies": {
     "@babel/core": "^7.6.0",
