@@ -39,7 +39,7 @@
     "sapper": "^0.27.0",
     "sass-loader": "^8.0.0",
     "stylus": "^0.54.7",
-    "svelte": "^3.0.0",
+    "svelte": "^3.49.0",
     "svelte-loader": "^2.9.0",
     "svelte-preprocess": "^3.2.6",
     "webpack": "^4.36.0",
